@@ -9,4 +9,4 @@
 
 #Python:
 
-![image](https://github.com/IgnisForest/DataVisualization/assets/126311662/6f603509-555f-40cb-8c3e-6190d5658152)
+![image](https://github.com/IgnisForest/DataVisualization/assets/126311662/7a4c5afa-7db2-4423-9e24-fbd5aa4e9745)
